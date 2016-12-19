@@ -1,0 +1,6 @@
+-L "nc30lib"
+-G
+-MS
+-O "C:\WorkSpace\MD_COLORE\MD_COLORE\Debug\MD_COLORE.x30"
+"C:\WorkSpace\MD_COLORE\MD_COLORE\Debug\ncrt0.r30"
+"C:\WorkSpace\MD_COLORE\MD_COLORE\Debug\MD_COLORE.r30"

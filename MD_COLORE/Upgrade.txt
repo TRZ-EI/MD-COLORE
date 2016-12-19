@@ -1,0 +1,7 @@
+Project name : MD_COLORE
+
+5.45.00 of Renesas M16C Standard Toolchain was upgraded to
+    5.42.00 of Renesas M16C Standard Toolchain.
+
+PhaseOrder:
+  "Renesas M16C ConfiguratorR8C|SYSTEM|0" delete)
